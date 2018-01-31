@@ -10,12 +10,5 @@ package controldeversiones;
  * @author dam
  */
 public class Calculadora {
-    int numero1;
-    int numero2;
-
-    public Calculadora(int numero1, int numero2) {
-        this.numero1 = numero1;
-        this.numero2 = numero2;
-    }
     
 }
